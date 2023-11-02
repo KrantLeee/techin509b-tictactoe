@@ -24,7 +24,7 @@ def get_user_move(board):
         else:
             print("Invalid input. Please enter in the format x,y.")
 
-# Reminder to check all the tests
+# Use case
 
 if __name__ == '__main__':
     board = logic.make_empty_board()
